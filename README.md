@@ -35,6 +35,16 @@ I'm passionate about continuous learning and keeping up-to-date with the latest 
 
 Feel free to connect with me on [LinkedIn](https://www.linkedin.com/in/nitinvavdiya/) or check out my repositories below!
 
+<div align=center>
+  <h3><b>📍 Profile Visitor Count</b></h3>
+</div>
+    
+<!-- retro visitor counter -->  
+<p align="center" >   
+  <img src="https://profile-counter.glitch.me/nitin-vavdiya/count.svg" />  
+</p>
+
+
 ---
 
 Thank you for visiting my profile! 😊
