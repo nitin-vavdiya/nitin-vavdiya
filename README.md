@@ -27,8 +27,7 @@ Notably, I'm a committer at the **Eclipse Foundation** for the [**Eclipse Tractu
 
 ## 🌱 Always Learning
 
-I'm passionate about continuous learning and keeping up-to-date with the latest technologies. Currently, I'm exploring advancements in cloud-native architectures and distributed systems.
-
+I'm passionate about continuous learning and keeping up-to-date with the latest technologies.
 ## 📫 Let's Connect
 
 Feel free to connect with me on [LinkedIn](https://www.linkedin.com/in/nitinvavdiya/) or check out my repositories below!
