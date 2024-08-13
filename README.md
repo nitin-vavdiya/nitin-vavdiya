@@ -1,4 +1,4 @@
-# Welcome to My GitHub Profile! 👋
+# Hi there! I'm Nitin Vavdiya 👋
 
 [![Credly Badge](https://images.credly.com/size/110x110/images/03205ada-b7e1-4e5b-bddf-15c5c29f9ddf/image.png)](https://www.credly.com/badges/142cfc25-0cd3-4899-acc8-e73a372c1875/public_url)
 
