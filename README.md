@@ -2,36 +2,27 @@
 
 [![Credly Badge](https://images.credly.com/size/110x110/images/03205ada-b7e1-4e5b-bddf-15c5c29f9ddf/image.png)](https://www.credly.com/badges/142cfc25-0cd3-4899-acc8-e73a372c1875/public_url)
 
+## 🚀 Software Architect | Java Enthusiast | Open-Source Contributor
 
-I'm a **Software Engineer** with over 12 years of experience in building robust and scalable applications. My expertise lies primarily in **Java** and the **Spring Boot** framework, along with a strong focus on cloud-native and containerized solutions.
+### 🔧 Tech Stack & Expertise
 
-## 🛠️ My Tech Stack
-
-- **Languages:** Java
-- **Frameworks:** Spring Boot, Spring Data JPA, Spring Security, Spring Cloud Gateway
-- **Containers & Orchestration:** Docker, Kubernetes, Helm
-- **Cloud:** AWS
-
-## 🌟 What I Do
-
-I specialize in designing and implementing back-end systems that are secure, performant, and maintainable. My work often involves:
-
-- Creating RESTful APIs using **Spring Boot**.
-- Managing data persistence with **Spring Data JPA** and **Hibernate**.
-- Ensuring application security with **Spring Security**.
-- Orchestrating microservices using **Kubernetes** and **Helm**.
-- Leveraging **AWS** for scalable and reliable cloud solutions.
-- Automating workflows and deployments with **Argo Workflow**.
-- Implementing **DevOps** practices for streamlined development and operations.
+- **Languages:** Java, J2EE (Servlet, JSP, JDBC)
+- **Frameworks:** Spring Boot, Spring MVC, Spring Data JPA, Spring Security, Spring Batch, Spring Cloud Gateway, Hibernate
+- **DevOps:** Docker, Docker Compose, Kubernetes, Argo Workflow, Helm
+- **Databases:** MySQL, MariaDB, PostgreSQL, Elastic Search, Redis, Neo4j
+- **Cloud:** AWS, Azure, Digital Ocean
+- **Tools:** Keycloak, Lens, DBeaver
+- **Version Control:** GitHub, GitLab, Bitbucket
 
 
+### 📚 Business Domains
+
+- **Industries:** Data Space (IDS), Automotive, Self-Sovereign Identity (SSI), Gaia-X, AI/ML, Document Collaboration, Health Tech, Sustainable Reporting, Finance, Travel, Education
 
 ## 🚀 Open-Source Contributions
 
 I'm actively involved in the open-source community, contributing to projects that focus on decentralized identity and cloud-native applications.
 Notably, I'm a committer at the **Eclipse Foundation** for the [**Eclipse Tractus-X**](https://eclipse-tractusx.github.io/) project, specifically contributing to the **Managed Identity Wallet** application using **did:web** and **Self-Sovereign Identity (SSI)** technologies.
-
-
 
 
 ## 🌱 Always Learning
