@@ -24,6 +24,9 @@
 I'm actively involved in the open-source community, contributing to projects that focus on decentralized identity and cloud-native applications.
 Notably, I'm a committer at the **Eclipse Foundation** for the [**Eclipse Tractus-X**](https://eclipse-tractusx.github.io/) project, specifically contributing to the **Managed Identity Wallet** application using **did:web** and **Self-Sovereign Identity (SSI)** technologies.
 
+### 🏆 GitHub Profile Trophy:
+
+[![trophy](https://github-profile-trophy.vercel.app/?username=nitin-vavdiya)](https://github.com/ryo-ma/github-profile-trophy)
 
 ## 🌱 Always Learning
 
