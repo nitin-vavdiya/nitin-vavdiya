@@ -7,10 +7,10 @@
 ### 🔧 Tech Stack & Expertise
 
 - **Languages:** Java, J2EE (Servlet, JSP, JDBC)
-- **Frameworks:** Spring Boot, Spring MVC, Spring Data JPA, Spring Security, Spring Batch, Spring Cloud Gateway, Hibernate
+- **Frameworks:** Spring Boot, Spring MVC, Spring Data JPA, Spring Security, Spring Batch, Spring Cloud Gateway, Hibernate, Querkus
 - **DevOps:** Docker, Docker Compose, Kubernetes, Argo Workflow, Helm
 - **Databases:** MySQL, MariaDB, PostgreSQL, Elastic Search, Redis, Neo4j
-- **Cloud:** AWS, Azure, Digital Ocean
+- **Cloud:** AWS, Azure
 - **Tools:** Keycloak, Lens, DBeaver
 - **Version Control:** GitHub, GitLab, Bitbucket
 
