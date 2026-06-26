@@ -110,15 +110,4 @@ Going deep on **agentic AI for software architecture** 🤖📐 — working thro
 
 ---
 
-### 🏆 GitHub Trophies
-
-[![trophy](https://github-profile-trophy.vercel.app/?username=nitin-vavdiya)](https://github.com/ryo-ma/github-profile-trophy)
-
-<div align="center">
-  <h3><b>📍 Profile Visitor Count</b></h3>
-  <img src="https://profile-counter.glitch.me/nitin-vavdiya/count.svg" />
-</div>
-
----
-
 <p align="center">Thanks for visiting! 😊</p>
