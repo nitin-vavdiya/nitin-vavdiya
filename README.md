@@ -14,7 +14,9 @@
 
 ## 🚀 About Me
 
-I design, review, and ship production systems **in partnership with AI coding agents** 🧑‍💻🤝🤖 — Claude Code, Cursor, GitHub Copilot — while keeping the architectural judgment human-owned. **14 years** in software, now operating AI-first: the agent writes the code, I own the design decisions, the security calls, and the accept/reject.
+I design, review, and ship production systems **in partnership with AI coding agents** 🧑‍💻🤝🤖 — Claude Code, Cursor, GitHub Copilot — while keeping the architectural judgment human-owned. 
+
+**14 years** in software, now operating AI-first: the agent writes the code, I own the design decisions, the security calls, and the accept/reject.
 
 > 💡 My working model: *direct and correct the agent, don't just accept its output.* That's where the real architecture happens.
 
@@ -24,13 +26,18 @@ I design, review, and ship production systems **in partnership with AI coding ag
 
 🛠️ **Agentic development pipelines** — design and run multi-agent pipelines (`spec → impact → review → ship`) across large, multi-repo codebases, with adversarial review lanes, automated quality gates, and per-run cost/quality tracking; learnings feed back into the agents.
 
+
 🔌 **AI tooling & MCP integration** — integrate and *benchmark* AI dev tools and MCP servers through controlled experiments, proving a tool's real value before adopting it.
+
 
 🔍 **AI-augmented code review & security** — a structured, multi-dimension review model with triage; catch correctness, security, and data-integrity issues before they ship.
 
+
 🚨 **Production incident investigation** — root-cause analysis on live systems, human-gated and confirm-before-run: `diagnose → reproduce → fix → verify`, with before/after proof.
 
+
 ⚡ **AI-accelerated development & DevOps** — scaffolding, cross-cutting refactors, and framework migrations, plus generating and reviewing cloud-native infrastructure — design through to production.
+
 
 📐 **Architecture docs & decisions** — ADRs, C4 diagrams, system specs, and RFCs written for both humans and AI code-gen.
 
