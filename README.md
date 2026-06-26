@@ -22,17 +22,17 @@ I design, review, and ship production systems **in partnership with AI coding ag
 
 ## 🧠 What I Do With AI
 
-🛠️ **Agentic development pipelines** — designed and run a `spec → impact → review → gate` pipeline built from custom agents and slash commands across a **large multi-repo estate**, with adversarial security-review lanes, eval goldens, a threat model, and a per-run token/cost ledger that drives model-tiering decisions. ♻️ Every pilot defect is encoded back into the agent definitions.
+🛠️ **Agentic development pipelines** — design and run multi-agent pipelines (`spec → impact → review → ship`) across large, multi-repo codebases, with adversarial review lanes, automated quality gates, and per-run cost/quality tracking; learnings feed back into the agents.
 
-🔌 **MCP server integration & evaluation** — integrate and *benchmark* code-context-graph MCP servers (**CodeGraphContext · Serena · FalkorDB/Neo4j**) — a controlled multi-arm experiment (baseline vs. tool, clean arm-isolation, dry-run-before-measure) to prove a tool's marginal value token-for-token before adopting it.
+🔌 **AI tooling & MCP integration** — integrate and *benchmark* AI dev tools and MCP servers through controlled experiments, proving a tool's real value before adopting it.
 
-🔍 **AI-augmented code review & security** — a multi-dimension reviewer model with auto / gated / manual triage. 🐛 Real defects caught before they shipped: IDOR auth bypasses, a data-loss migration, secrets & PII in logs, and a silent data-loss bug in a distributed task fan-in.
+🔍 **AI-augmented code review & security** — a structured, multi-dimension review model with triage; catch correctness, security, and data-integrity issues before they ship.
 
-🚨 **Production incident investigation** — root-cause analysis on live systems, human-gated and confirm-before-run: `diagnose → reproduce → rule out → fix → canary → before/after proof`. Recent: drove a RAG-pipeline incident through three root-cause layers to a `systemd-resolved` resolver fault and shipped a canary-verified fix.
+🚨 **Production incident investigation** — root-cause analysis on live systems, human-gated and confirm-before-run: `diagnose → reproduce → fix → verify`, with before/after proof.
 
-⚡ **AI-accelerated microservices & DevOps** — scaffolding, cross-cutting refactors and framework migrations (Spring Boot 3→4 / Java 25), **SSI/DID · Gaia-X · EDC/dataspace** flows, Go workflow-runtime extensions, and generating/reviewing Kubernetes · Helm · Argo/GitOps · Terragrunt — design through merge to prod.
+⚡ **AI-accelerated development & DevOps** — scaffolding, cross-cutting refactors, and framework migrations, plus generating and reviewing cloud-native infrastructure — design through to production.
 
-📐 **Architecture docs that two audiences read** — ADRs, C4 diagrams, system specs, and **dual-audience RFCs** written for both humans and LLM code-gen.
+📐 **Architecture docs & decisions** — ADRs, C4 diagrams, system specs, and RFCs written for both humans and AI code-gen.
 
 ---
 
