@@ -16,7 +16,7 @@
 
 I design, review, and ship production systems **in partnership with AI coding agents** 🧑‍💻🤝🤖 — Claude Code, Cursor, GitHub Copilot — while keeping the architectural judgment human-owned. 
 
-**14 years** in software, now operating AI-first: the agent writes the code, I own the design decisions, the security calls, and the accept/reject.
+**13 years** in software, now operating AI-first: the agent writes the code, I own the design decisions, the security calls, and the accept/reject.
 
 > 💡 My working model: *direct and correct the agent, don't just accept its output.* That's where the real architecture happens.
 
